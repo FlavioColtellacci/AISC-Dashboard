@@ -1,0 +1,13 @@
+SiteName,CostCategoryName,TotalCost
+Site A,Processing,176422235.0
+Site A,Mining,140969622.0
+Site A,G&A,37263391.0
+Site A,Sustaining CapEx,28862889.0
+Site B,Processing,162290296.0
+Site B,Mining,126865731.0
+Site B,G&A,35987787.0
+Site B,Sustaining CapEx,19726757.0
+Site C,Processing,173136070.0
+Site C,Mining,133505443.0
+Site C,G&A,34965462.0
+Site C,Sustaining CapEx,22505343.0
