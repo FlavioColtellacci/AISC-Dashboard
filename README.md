@@ -1,4 +1,4 @@
-# Project 5: AISC Cost-Per-Tonne Dashboard
+# AISC Cost-Per-Tonne Dashboard
 
 **Mining Operations Financial Analytics | Power BI Portfolio Project**
 
