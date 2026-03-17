@@ -246,15 +246,9 @@ jupyter notebook notebooks/Project5_AISC_SQL_Queries.ipynb
 **Portfolio Project #5** in my career transition from Real Estate Management → Business Intelligence/Business Analytics
 
 **Why This Project:**
-- Demonstrates **financial analytics** (balances operational focus of Projects #3 & #4)
-- Shows understanding of **AISC** (THE foundational metric for Perth mining sector)
+- Demonstrates **financial analytics** 
+- Shows understanding of **AISC**
 - Proves **commercial acumen** and business value delivery
-- Targets Perth corporate office roles (BHP, Rio Tinto, Fortescue, mining services)
-
-**Other Portfolio Projects:**
-- Project #3: Drilling Performance Analytics
-- Project #4: Predictive Maintenance Dashboard
-- Project #5: AISC Cost Analysis (this project)
 
 ---
 
